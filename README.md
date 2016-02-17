@@ -1,5 +1,5 @@
 # Algorithms
-This class was designed to teach the everyday algorithms a programmer might use in every day problems.
+This class was designed to teach the everyday algorithms a programmer might use in every day problems. 
 
 
 # Assignment 1
