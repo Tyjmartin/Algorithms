@@ -23,7 +23,7 @@ printing and testing purposes. This is all done with the help of lists and my no
 uses the main node for the calls in main then it uses character node to break down the names. The main class deals with
 inputting the data and reading the list of names.
 
-# Assignmnet 3
+# Assignment 3
 In this project we were tasked with using Prim's algorithm which is a variation of Dijkstra's algorithm and we use it to 
 help find the mininimum spanning tree of user created graph. The output is the edge weight of the Euclidean distance
 between any two vertices in a space of 580x580. We needed to the graph be bi-directional, so each edge could be listed twice.
